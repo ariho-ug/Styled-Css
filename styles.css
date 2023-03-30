@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    color: rgb(20, 63, 38);
+}
+h1{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 500%;
+    color: rgb(160, 52, 52);
+    padding-bottom: 5px;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aqua;
+    font-weight: normal;
+}
+h3{
+    font-size: 15px;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted rgb(119, 119, 194) 8px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+span.pro{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: #588b9bde;
+    margin: 30px 20px;
+}
+.top-container{
+    background-color: rgb(72, 124, 122);
+    position: relative;
+    padding: 100px 0;
+}
+.top-cloud{
+    position:absolute;
+    left: 75%;
+    width: 100px;
+    height: auto;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 15%;
+    width: 100px;
+    height: auto;
+}
+.mountain{
+    width: 600px;
+    height: auto;
+}
+.middle-container{
+    padding-top: 100px 0;
+}
+.profile{
+    padding: 100px 0;
+}
+.Buddha{
+   width: 150px;
+   height: auto;
+}
+.intro{
+    width: 20%;
+    margin: auto;
+    font-size: 30px;
+}
+.Describe{
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+.Describe-2{
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+.habove{
+    font-size:x-large;
+    margin-left: 169px; 
+}
+.hbelow{
+    font-size:x-large;
+    margin-left: 358px;
+}
+.conclusion{
+    font-size: x-large;
+}
+.social-1{
+    width: 150px;
+    height: auto;
+    float: left;
+    margin-right: 30px;
+}
+.social-2{
+    width: 150px;
+    height: auto;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.fire{
+    width: 10%;
+}
+.conclusion{
+    width: 20%;
+    margin: 40px auto 0;
+}
+.btn {
+    font-size:25px;
+    font-family:Trebuchet MS;
+    width:132px;
+    height:62px;
+    border-width:1px;
+    color:rgba(246, 169, 26, 1);
+    border-color:rgba(164, 134, 134, 1);
+    font-weight:lighter;
+    border-top-left-radius:22px;
+    border-top-right-radius:22px;
+    border-bottom-left-radius:22px;
+    border-bottom-right-radius:22px;
+    background:linear-gradient(rgba(48, 170, 78, 1), rgba(65, 187, 201, 1));
+    line-height: 4;
+  }
+  
+.btn:hover {
+    background: linear-gradient(rgba(65, 187, 201, 1), rgba(48, 170, 78, 1));
+  }
+.bottom-container{
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 2;
+    padding: 100px 0;
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 1px;
+}        
+.copyright{
+    color: bisque;
+    font-size: 80%;
+    padding: 50px auto;
+}
